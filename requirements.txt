@@ -7,3 +7,4 @@ imageio
 scikit-image
 scipy
 opencv-python
+opencv-python-headless
